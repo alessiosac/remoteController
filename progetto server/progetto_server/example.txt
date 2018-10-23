@@ -1,0 +1,3464 @@
+000100EC  
+000100D4  
+000100D2  
+000100BE  
+000100DC  
+000100DA  
+000100EA  
+000100D6  
+000A0058  Start
+000A00B0  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000101AA  CiceroUIWndFrame
+000300FA  
+00030136  
+0003010E  
+00030138  
+0003012A  
+0004010C  
+00030116  
+000300F8  Start menu
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+00030124  Stefano Biora
+000502AA  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000100EC  
+000100D4  
+000100D2  
+000100BE  
+000100DC  
+000100DA  
+000100EA  
+000100D6  
+000A0058  Start
+000A00B0  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000101AA  CiceroUIWndFrame
+000300FA  
+00030136  
+0003010E  
+00030138  
+0003012A  
+0004010C  
+00030116  
+000300F8  Start menu
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+00030124  Stefano Biora
+000502AA  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000100EC  
+000100D4  
+000100D2  
+000100BE  
+000100DC  
+000100DA  
+000100EA  
+000100D6  
+000A0058  Start
+000A00B0  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000101AA  CiceroUIWndFrame
+000300FA  
+00030136  
+0003010E  
+00030138  
+0003012A  
+0004010C  
+00030116  
+000300F8  Start menu
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+00030124  Stefano Biora
+000502AA  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000100EC  
+000100D4  
+000100D2  
+000100BE  
+000100DC  
+000100DA  
+000100EA  
+000100D6  
+000A0058  Start
+000A00B0  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000101AA  CiceroUIWndFrame
+000300FA  
+00030136  
+0003010E  
+00030138  
+0003012A  
+0004010C  
+00030116  
+000300F8  Start menu
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+00030124  Stefano Biora
+000502AA  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+00030136  
+00030138  
+0003012A  
+0004010C  
+000100D4  
+000100D2  
+000100BE  
+000100DC  
+000100DA  
+000100EA  
+000100D6  
+000A0058  Start
+000A00B0  
+00030124  Stefano Biora
+000300F8  Start menu
+000101AA  CiceroUIWndFrame
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+0003010E  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00030234  
+00050264  
+0007026E  
+00080224  
+0009023A  Computer
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F0  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00050264  
+0007026E  
+00080224  
+0009023A  MARIO (F:)
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F0  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00050264  
+0007026E  
+00080224  
+0009023A  MARIO (F:)
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F0  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00050264  
+0007026E  
+00080224  
+0009023A  MARIO (F:)
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F0  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00050264  
+0007026E  
+00080224  
+0009023A  MARIO (F:)
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00050264  
+0007026E  
+00080224  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+00060288  Find
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+000702F6  MSCTFIME UI
+00070242  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000702F2  
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
+000101AE  Network Flyout
+0003001A  Task Switching
+00010146  
+000500F4  
+00010040  CiceroUIWndFrame
+00020038  TF_FloatingLangBar_WndTitle
+000502AA  
+0006020C  example - Notepad
+00050264  
+0007026E  
+00080224  
+000802F4  
+0009023A  progetto_server
+000701EC  
+001101E8  
+0007036E  
+000902D2  
+000802FE  F:\progetto_server\Debug\progetto_server.exe
+0005024A  progetto_server (Running) - Microsoft Visual Studio
+0003028A  
+0003028E  
+00030290  
+00030292  
+000101E2  
+000201D2  Input/output with files - C++ Tutorials - Google Chrome
+00040244  
+000D033E  
+00090268  
+000A0294  
+000302D4  
+000402FC  
+00040340  
+0004033A  
+00050252  Loading...
+000502D8  GDI+ Window
+00050238  DDE Server Window
+0005030A  MediaContextNotificationWindow
+00030342  SystemResourceNotifyWindow
+000901F6  
+0004033C  MediaContextNotificationWindow
+001C0310  SystemResourceNotifyWindow
+00030266  Visual Studio Application Management Window
+0003037A  .NET-BroadcastEventWindow.4.0.0.0.182b0e9.0
+00030254  
+00030166  Battery Meter
+0001034E  JavaUpdate SysTray Icon
+000701D6  MCI command handling window
+0004011A  
+00030118  
+000101D8  
+000101CA  
+000101C6  
+000101C2  
+000301C0  HiddenFaxWindow
+00030150  MS_WebcheckMonitor
+000101B6  BluetoothNotificationAreaIconWindowClass
+000201AC  
+00020020  Media Center SSO
+00020018  
+0004005C  
+000201A6  
+000201A4  
+0002019C  
+0001018E  Sophos Endpoint Security and Control
+0001018A  DDE Server Window
+0001017C  
+0001016C  New Data Acquisition Device
+0001016A  iMonitor
+00020164  Intel(R) USB 3.0 Monitor
+00010160  
+0001015A  
+0001014C  
+000500EE  Jump List
+000100E2  
+000100E0  
+000600B2  DDE Server Window
+00010072  The Event Manager - Status
+00010062  HotKey Listener
+0001004C  MCI command handling window
+00010048  
+00040044  
+0003002E  Task Host Window
+00020032  
+00010042  DWM Notification Window
+00010140  Program Manager
+0009005A  MSCTFIME UI
+000700B8  Default IME
+00070246  Default IME
+00020026  Default IME
+0007026C  MSCTFIME UI
+000702F8  Default IME
+00090202  Default IME
+0008021E  Default IME
+0008021C  Default IME
+000702E0  MSCTFIME UI
+002B0302  Default IME
+00050240  MSCTFIME UI
+00040270  Default IME
+000101DE  MSCTFIME UI
+000101C4  Default IME
+0006027C  Default IME
+000402EE  Default IME
+00030318  Default IME
+00040218  MSCTFIME UI
+0004003E  Default IME
+00010350  Default IME
+000301DA  Default IME
+00020024  Default IME
+00030022  Default IME
+00010190  Default IME
+0001018C  MSCTFIME UI
+00010170  Default IME
+0001016E  Default IME
+0003014E  Default IME
+00010080  MSCTFIME UI
+00010074  Default IME
+00010070  MSCTFIME UI
+00010064  Default IME
+0001004E  Default IME
+00020030  Default IME
+00020034  Default IME
+00010060  MSCTFIME UI
+00010046  Default IME
+000100D6  
+000100EA  
+000100DA  
+000100DC  
+000100BE  
+000100D2  
+000100D4  
+000A0058  Start
+000A00B0  
+000101AA  CiceroUIWndFrame
+00030136  
+00030138  
+0003012A  
+0004010C  
+00030124  Stefano Biora
+0003010E  
+000300F8  Start menu
+000100EC  
+001801F0  
+003A023C  
+000302B2  
+000302D0  
+00040296  ms_sqlce_se_notify_wndproc
+000100D8  
+000100C6  
+000100C2  
+000300FA  
+00030116  
